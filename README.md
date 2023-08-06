@@ -1,1 +1,1 @@
-# Dimensionality-Reduction-Technique-In-Machine-Learning
+# Dimensionality Reduction-Technique In Machine-Learning
