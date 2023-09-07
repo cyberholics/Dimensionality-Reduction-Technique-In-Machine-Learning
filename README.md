@@ -8,15 +8,15 @@ In this article, you will gain an understanding of NLP and how it can be applied
 
 ### Table of contents
 [What is NLP?](#topic1)
-
 [Application of NLP](#topic2)
-
 [Techniques Used in NLP](#topic3)
 
 
 <h2 id="topic1">What is NLP?</h2>
+Before you delve into the essence of NLP, understand that natural language encompasses the methods humans use to communicate with one another, including both written and spoken forms.
 
-Natural language processing is a branch of artificial intelligence that involves 
+Natural Language Processing is a subfield of artificial intelligence that involves programming computers to comprehend, process, and analyse human natural language data.
+Unlike other artificial intelligence problems that involve tabular and image data, NLP typically deals with training data in the form of text and audio. In most cases, the goal is to classify and analyse strings of text.
 
 <h2 id="topic2">Application of NLP</h2>
 
