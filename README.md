@@ -43,7 +43,7 @@ print(tokens
 ```
 Result:
 
-![tokenization result](images/tokenization result.png)
+![Tokenization result](images/tokenization result.png)
 
 ### Bag Of Words
 The 'Bag of Words' (BoW) is a common technique used in NLP. It represents text data as a collection of individual words or tokens, disregarding their order or structure within the text. BoW is a fundamental method for feature extraction from text data, making it suitable for a wide range of NLP tasks, including text classification, sentiment analysis, and document retrieval.
