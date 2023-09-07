@@ -8,6 +8,21 @@ In this article, you will gain an understanding of NLP and how it can be applied
 
 ### Table of contents
 [What is NLP?](#topic1)
-Application of NLP
 
-<h2 id="topic1">  What is NLP?</h2>
+[Application of NLP](#topic2)
+
+[Techniques Used in NLP](#topic3)
+
+
+<h2 id="topic1">What is NLP?</h2>
+
+Natural language processing is a branch of artificial intelligence that involves 
+
+<h2 id="topic2">Application of NLP</h2>
+
+Nlp is applid to djdcjnjfvj 
+
+<h2 id="topic3">Techniques Used in NLP</h2>
+
+Natural Language Processing encompasses a wide range of techniques and methods to process and analyse human language data. Here are some of the key techniques and approaches used in NLP:
+
