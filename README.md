@@ -1,4 +1,4 @@
-# Introduction To Natural Language Processing: Language Detection As A Use Case
+# Introduction To Natural Language Processing With Python: Language Detection As A Use Case
 ![Words in various languages. Image by Hannah Wright on unsplash](hannah-wright-ZzWsHbu2y80-unsplash.jpg) 
 
 Have you ever wondered about the mechanism behind your language translation tools and how these tools translate thousands of languages with great precision? Or even your grammar correction tools?
