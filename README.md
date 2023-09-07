@@ -42,6 +42,7 @@ tokens = tokenize_text(text)
 print(tokens 
 ```
 Result:
+
 ![tokenization result](images/tokenization result.png)
 
 ### Bag Of Words
