@@ -43,6 +43,42 @@ print(tokens
 ```
 Result:
 
+### Bag Of Words
+The 'Bag of Words' (BoW) is a common technique used in NLP. It represents text data as a collection of individual words or tokens, disregarding their order or structure within the text. BoW is a fundamental method for feature extraction from text data, making it suitable for a wide range of NLP tasks, including text classification, sentiment analysis, and document retrieval.
+
+To implement BoW, you can use Scikit-Learn's CountVectorizer, which is a powerful tool for converting a collection of text documents into a matrix of word counts. Here's an example of how to use CountVectorizer to implement BoW in Python:
+```
+from sklearn.feature_extraction.text import CountVectorizer
+
+# Sample text data
+corpus = [
+    'This is the first document.',
+    'This document is the second document.',
+    'And this is the third one.',
+    'Is this the first document?',
+]
+
+# Create an instance of CountVectorizer
+vectorizer = CountVectorizer()
+
+# Fit and transform the corpus to create the BoW representation
+X = vectorizer.fit_transform(corpus)
+
+# Get the vocabulary (unique words)
+vocab = vectorizer.get_feature_names_out()
+
+# Convert the BoW representation to a dense array for readability
+dense_array = X.toarray()
+
+# Display the BoW representation
+print("BoW representation:")
+print(dense_array)
+
+# Display the vocabulary
+print("Vocabulary:")
+print(vocab)
+```
+Result:
 <h2 id="topic3">Application of NLP</h2>
 
 
