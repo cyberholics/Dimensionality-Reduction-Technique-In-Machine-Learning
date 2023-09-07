@@ -28,9 +28,20 @@ Unlike other artificial intelligence problems that involve tabular and image dat
 
 Natural Language Processing encompasses a wide range of techniques and methods to process and analyse human language data. Here are some of the key techniques and approaches used in NLP:
 
-- **Tokenization:** 
+ ### Tokenization
 Tokenization is the process of breaking down a text or a sequence of characters into smaller units called tokens. These tokens are typically words, subwords, or even individual characters, depending on the specific use case. Tokenization is a fundamental step in NLP, and it serves in the feature extraction process of NLP tasks because text data needs to be transformed into a numerical format that machine learning models can process. Tokens serve as the basic features for these models. By tokenizing text, you convert it into a format suitable for feature extraction.
-You can perform tokenization using 
+Here is how to perform tokenization:
+```
+def tokenize_text(text):
+    """Tokenize a text into words using whitespace as a delimiter."""
+    tokens = text.split()
+    return tokens
+
+text = "This is an example sentence for tokenization."
+tokens = tokenize_text(text)
+print(tokens 
+```
+Result:
 
 <h2 id="topic3">Application of NLP</h2>
 
